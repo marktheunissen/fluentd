@@ -1,2 +1,5 @@
-# fluentd
-Fluentd with some plugins
+# Fluentd Docker Build
+
+Fluentd with some plugins:
+
+- Postgres
